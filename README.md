@@ -9,7 +9,7 @@ Working playbook example to setup a monitoring infrastructure using the followin
 - Fluentd (replaces Logstash)
 
 
-It uses Ubuntu 14.04 as a base and installs all the requred packages.
+It uses Ubuntu 14.04 and installs all the required packages.
 
 
 
